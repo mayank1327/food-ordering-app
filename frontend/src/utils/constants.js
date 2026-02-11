@@ -1,4 +1,4 @@
-export const API_URL = 'http://localhost:3000/api';
+export const API_URL = 'https://food-ordering-app-fv6k.onrender.com/api';
 
 export const ROLES = {
   ADMIN: 'ADMIN',
