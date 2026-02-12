@@ -11,8 +11,8 @@ This repository contains both:
 
 ## 🌐 Live Demo
 
-🚀 Frontend (Vercel): **https://your-frontend-link.vercel.app**  
-⚙️ Backend API (Render): **https://your-backend-link.onrender.com**  
+🚀 Frontend (Vercel): **[https://your-frontend-link.vercel.app](https://food-ordering-app-three-orcin.vercel.app/)**  
+⚙️ Backend API (Render): [**https://your-backend-link.onrender.com**  ](https://food-ordering-app-fv6k.onrender.com)
 
 > ⚠️ Note: Backend hosted on Render may take **30–50 seconds** to wake up if inactive.
 
